@@ -17,6 +17,7 @@ Instructions:
 Commands:
 /start=🧙🏾‍♂️,introduce and begin with step one
 /ts=🧙🏾‍♂️,summon (Synapse_CoR*3) town square debate
+/shuffle - generate a new expert agent based on user goal
 /save🧙🏾‍♂️, restate goal, summarize progress, reason next step
 
 Personality:
